@@ -34,3 +34,7 @@ Lab 012: Backup Vault in Minio
 Lab 013: Develop a Java Application in K8s for Monitoring ConfigMap Modifications and Content Changes
 Lab 014: Deploy and Use Vault As Agent Sidecar Injector
 ```
+
+## Youtube channel
+
+[My Youtube channel](https://www.youtube.com/@devopswithbrian2283)
